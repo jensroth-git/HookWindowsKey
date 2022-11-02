@@ -1,0 +1,2 @@
+#define HOOKWINDOWSKEYDLL_API __declspec(dllexport)
+#define HOOKWINDOWSKEYDLL_API __declspec(dllimport)
